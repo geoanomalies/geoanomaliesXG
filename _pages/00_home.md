@@ -68,7 +68,7 @@ We invite high-quality research papers to our workshop. For detailed information
   </div>
   <div class="user-card">
     <img src="assets/img/org_Andreas.jpeg" class="user-image" alt="Andreas Züfle">
-    <a class="user-name" href="https://spatial.cs.emory.edu/pages/member/andreas-zufle.html/">Andreas Züfle</a>
+    <a class="user-name" href="https://www.zuefle.org/">Andreas Züfle</a>
     <span>Emory University</span>
   </div>
 </div>
