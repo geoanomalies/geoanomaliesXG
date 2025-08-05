@@ -63,12 +63,12 @@ We invite high-quality research papers to our workshop. For detailed information
   </div>
   <div class="user-card">
     <img src="assets/img/org_Carola.jpeg" class="user-image" alt="Carola Wenk">
-    <a class="user-name" href="https://www.cs.tulane.edu/~carola/">Carola Wenk</a>
+    <a class="user-name" href="https://sse.tulane.edu/carola-wenk/">Carola Wenk</a>
     <span>Tulane University</span>
   </div>
   <div class="user-card">
     <img src="assets/img/org_Andreas.jpeg" class="user-image" alt="Andreas Züfle">
-    <a class="user-name" href="https://www.zuefle.org/">Andreas Züfle</a>
+    <a class="user-name" href="https://spatial.cs.emory.edu/pages/member/andreas-zufle.html/">Andreas Züfle</a>
     <span>Emory University</span>
   </div>
 </div>
