@@ -39,7 +39,7 @@ The 2nd ACM SIGSPATIAL International Workshop on Geospatial Anomaly Detection (G
 
 ### Important Dates:
 
-We invite high-quality research papers to our workshop. For detailed information, please visit our [Call for Paper](https://geoanomalies.github.io/geoanomaliesXG/cfp/).
+We invite high-quality research papers to our workshop. For detailed information, please visit our [Call for Paper](https://geoanomalies.github.io/cfp/).
 
 - Paper Submission: ~~August 9, 2025~~ August 22, 2025
 - Decisions to Authors: September 26, 2025
