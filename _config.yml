@@ -6,7 +6,7 @@ email:
 description: > # this means to ignore newlines until "url:"
   The 2nd ACM SIGSPATIAL International Workshop on Geospatial Anomaly Detection
 footer_text: >
-  Forked from <a href="https://slrtpworkshop.github.io/">SLRTP</a> Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Inspired from SLRTP Powered by Jekyll with al-folio theme.
 
 url: https://geoanomalies.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/

@@ -15,24 +15,24 @@ The 2nd ACM SIGSPATIAL International Workshop on Geospatial Anomaly Detection (G
 
 <div class="user-cards">
   <div class="user-card">
-    <img src="assets/img/speaker_Michael_Black.jpg" class="user-image" alt="Michael Black">
-    <a class="user-name" href="https://ps.is.mpg.de/person/black">Michael Black</a>
-    <span>Max Planck Institute for Intelligent Systems</span>
+    <img src="assets/img/test.jpg" class="user-image" alt="test">
+    <a class="user-name" href="https://www.test.org/index.html">test</a>
+    <span>Max test Systems</span>
   </div>
   <div class="user-card">
-    <img src="assets/img/speaker_Matthias_Niessner.jpg" class="user-image" alt="Matthias Nießner">
-    <a class="user-name" href="https://www.niessnerlab.org/index.html">Matthias Nießner</a>
-    <span>Technical University of Munich</span>
+    <img src="assets/img/test.jpg" class="user-image" alt="test">
+    <a class="user-name" href="https://www.test.org/index.html">test</a>
+    <span>Technical University</span>
   </div>
   <div class="user-card">
-    <img src="assets/img/speaker_MaartjeDeMeulder.jpeg" class="user-image" alt="Maartje De Meulder">
-    <a class="user-name" href="https://maartjedemeulder.be">Maartje De Meulder</a>
-    <span>HU – University of Applied Sciences Utrecht</span>
+    <img src="assets/img/test.jpeg" class="user-image" alt="test">
+    <a class="user-name" href="https://www.test.org/index.html">test</a>
+    <span>HU – University of Applied Sciences</span>
   </div>
   <div class="user-card">
-    <img src="assets/img/speaker_Abraham_Glasser.jpg" class="user-image" alt="Abraham Glasser">
-    <a class="user-name" href="https://abrahamglasser.com">Abraham Glasser</a>
-    <span>Gallaudet University</span>
+    <img src="assets/img/test.jpg" class="user-image" alt="test">
+    <a class="user-name" href="https://www.test.org/index.html"> test</a>
+    <span>test University</span>
   </div>
 </div> -->
 
@@ -115,6 +115,6 @@ We invite high-quality research papers to our workshop. For detailed information
 <!-- ### Sponsors
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="assets/img/google_deepmind_logo.png" height="105" alt="Google DeepMind Logo">
-  <img src="assets/img/cvf_logo.jpg" height="105" alt="CVF Logo">
+  <img src="assets/img/test.png" height="105" alt="test test test">
+  <img src="assets/img/test.jpg" height="105" alt="test Logo">
 </div> -->
