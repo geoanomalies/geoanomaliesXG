@@ -49,7 +49,7 @@ We invite high-quality research papers to our workshop. For detailed information
 
 
 ### Organizers
-#### General Chair
+#### General Chairs
 <div class="user-cards">
   <div class="user-card">
     <img src="assets/img/org_yao.jpeg" class="user-image" alt="Yao-Yi Chiang">
