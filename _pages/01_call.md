@@ -45,9 +45,9 @@ Printable version: [Call for paper](../assets/papers/GeoAnomalies25.pdf)
 
 **Author Guidelines**
 
-Accepted GeoAnomalies'25 papers will appear in the ACM SIGSPATIAL'25 Proceedings. Therefore, we follow the same formatting requirements as ACM SIGSPATIAL'25 which can be found [Here](https://sigspatial2025.sigspatial.org/).<br>
+Accepted GeoAnomalies'25 papers will appear in the ACM SIGSPATIAL'25 Proceedings. Therefore, we follow the same formatting requirements as ACM SIGSPATIAL'25 which can be found [ACM SIGSPATIAL Website](https://sigspatial2025.sigspatial.org/).<br>
 
-Manuscripts should be submitted in PDF format and formatted using the ACM camera-ready templates available at [Here](http://www.acm.org/publications/proceedings-template).<br>
+Manuscripts should be submitted in PDF format and formatted using the ACM camera-ready templates available on [ACM Template Website](http://www.acm.org/publications/proceedings-template).<br>
 
 SIGSPATIAL uses the Conference Proceedings Primary Article template with two-column format. Alterations to the template, especially to gain more space, will be grounds for administrative rejection without further technical review. Submissions to ACM SIGSPATIAL are single-blind -- i.e., the names and affiliations of the authors should be listed in the submitted version. The author list is considered to be final after the submission deadline and no changes to the author list are allowed for accepted papers.
 
