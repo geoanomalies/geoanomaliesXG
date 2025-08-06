@@ -96,7 +96,7 @@ We invite high-quality research papers to our workshop. For detailed information
   </div>
 </div>
 
-#### Program Committee
+#### Program Committees
 - Leman Akoglu, Carnegie Mellon University
 - Qunying Huang, University of Wisconsin Madison
 - Peer Kröger, University of Kiel	
