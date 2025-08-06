@@ -8,7 +8,6 @@ layout: default
     <div class="post-header">
 
   <style>
-    /* We target the specific div to avoid conflicts */
     .post-header .logo-header-container {
       background-color: black;
       padding: 20px;
@@ -17,9 +16,21 @@ layout: default
       border-radius: 8px;
     }
 
-    .post-header .logo-header-image {
-      height: 110px;
-      margin-right: 25px; 
+    /* Container for the two logo images */
+    .post-header .logo-parts-container {
+      display: flex;
+      align-items: center;
+      margin-right: 25px; /* Space between logo and description */
+    }
+
+    .post-header .logo-icon-image {
+      height: 120px;
+      margin-right: 15px; /* Space between icon and text */
+    }
+    
+    .post-header .logo-text-image {
+      /* Adjust height as needed for your text image */
+      height: 40px; 
     }
 
     .post-header .post-description {
@@ -30,23 +41,31 @@ layout: default
     /* --- Mobile Optimization --- */
     @media (max-width: 600px) {
       .post-header .logo-header-container {
+        /* Stack the logo block and the description vertically */
         flex-direction: column; 
       }
 
-      .post-header .logo-header-image {
+      .post-header .logo-parts-container {
+        /* Stack the icon and the text vertically */
+        flex-direction: column; 
         margin-right: 0; 
-        margin-bottom: 15px; 
+        margin-bottom: 20px; /* Space between logo and description */
       }
-
-      .post-header .post-description {
-        text-align: left; 
+      
+      .post-header .logo-icon-image {
+        margin-right: 0;
+        margin-bottom: 10px; /* Space between icon and text */
       }
     }
   </style>
   
   <div class="logo-header-container">
 
-    <img src="assets/img/logo.jpeg" alt="GeoAnomalies Logo" class="logo-header-image">
+    <div class="logo-parts-container">
+      <img src="assets/img/logo_image.jpeg" alt="GeoAnomalies Icon" class="logo-icon-image">
+
+      <img src="assets/img/logo_text.png" alt="GeoAnomalies Text" class="logo-text-image">
+    </div>
     
     <h4 class="post-description">{{ page.description | newline_to_br}}</h4>
 
