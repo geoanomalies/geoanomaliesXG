@@ -38,7 +38,7 @@ Printable version: [Call for paper](../assets/papers/GeoAnomalies25.pdf)
 
 **Important Dates:** 
 
-- Paper Submission: ~~August 9, 2025~~ August 22, 2025
+- Paper Submission: ~~August 9, 2025~~ August 29, 2025
 - Decisions to Authors: September 26, 2025
 - Camera-Ready: October 10, 2025
 
