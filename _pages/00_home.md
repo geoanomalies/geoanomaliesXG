@@ -41,7 +41,7 @@ The 2nd ACM SIGSPATIAL International Workshop on Geospatial Anomaly Detection (G
 
 We invite high-quality research papers to our workshop. For detailed information, please visit our [Call for Paper](https://geoanomalies.github.io/cfp/).
 
-- Paper Submission: ~~August 9, 2025~~ August 29, 2025
+- Paper Submission: ~~August 9, 2025~~ **August 29, 2025**
 - Decisions to Authors: September 26, 2025
 - Camera-Ready: October 10, 2025
 
@@ -57,7 +57,7 @@ We invite high-quality research papers to our workshop. For detailed information
     <span>University of Minnesota</span>
   </div>
   <div class="user-card">
-    <img src="assets/img/blank.jpg" class="user-image" alt="Jack Cooper">
+    <img src="assets/img/org_Cooper.jpg" class="user-image" alt="Jack Cooper">
     <a class="user-name" href="https://www.iarpa.gov/who-we-are/">Jack Cooper</a>
     <span>US Intelligence Advanced Research Projects Activity (IARPA)</span>
   </div>
