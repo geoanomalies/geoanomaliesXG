@@ -52,7 +52,7 @@ We invite high-quality research papers to our workshop. For detailed information
 #### General Chairs
 <div class="user-cards">
   <div class="user-card">
-    <img src="assets/img/org_yao.jpeg" class="user-image" alt="Yao-Yi Chiang">
+    <img src="assets/img/org_yao.jpg" class="user-image" alt="Yao-Yi Chiang">
     <a class="user-name" href="https://cse.umn.edu/cs/yao-yi-chiang">Yao-Yi Chiang</a>
     <span>University of Minnesota</span>
   </div>
