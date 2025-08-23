@@ -80,7 +80,7 @@ We invite high-quality research papers to our workshop. For detailed information
 
 <div class="user-cards">
   <div class="user-card">
-    <img src="assets/img/org_kim.jpeg" class="user-image" alt="Joon-Seok Kim">
+    <img src="assets/img/org_kim.jpg" class="user-image" alt="Joon-Seok Kim">
     <a class="user-name" href="https://www.joonseok.org/">Joon-Seok Kim</a>
     <span>Emory University</span>
   </div>
